@@ -1,0 +1,448 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hmosl\\source\\repos\\Hw13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6F853A-09C5-4E87-99DF-EA1E92C5BBB3}|Hw13\\Hw13.csproj|c:\\users\\hmosl\\source\\repos\\hw13\\hw13\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6F853A-09C5-4E87-99DF-EA1E92C5BBB3}|Hw13\\Hw13.csproj|solutionrelative:hw13\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6F853A-09C5-4E87-99DF-EA1E92C5BBB3}|Hw13\\Hw13.csproj|c:\\users\\hmosl\\source\\repos\\hw13\\hw13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6F853A-09C5-4E87-99DF-EA1E92C5BBB3}|Hw13\\Hw13.csproj|solutionrelative:hw13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6F853A-09C5-4E87-99DF-EA1E92C5BBB3}|Hw13\\Hw13.csproj|c:\\users\\hmosl\\source\\repos\\hw13\\hw13\\configuration\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6F853A-09C5-4E87-99DF-EA1E92C5BBB3}|Hw13\\Hw13.csproj|solutionrelative:hw13\\configuration\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6F853A-09C5-4E87-99DF-EA1E92C5BBB3}|Hw13\\Hw13.csproj|c:\\users\\hmosl\\source\\repos\\hw13\\hw13\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6F853A-09C5-4E87-99DF-EA1E92C5BBB3}|Hw13\\Hw13.csproj|solutionrelative:hw13\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6F853A-09C5-4E87-99DF-EA1E92C5BBB3}|Hw13\\Hw13.csproj|c:\\users\\hmosl\\source\\repos\\hw13\\hw13\\contracts\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6F853A-09C5-4E87-99DF-EA1E92C5BBB3}|Hw13\\Hw13.csproj|solutionrelative:hw13\\contracts\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6F853A-09C5-4E87-99DF-EA1E92C5BBB3}|Hw13\\Hw13.csproj|c:\\users\\hmosl\\source\\repos\\hw13\\hw13\\configuration\\userbookconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6F853A-09C5-4E87-99DF-EA1E92C5BBB3}|Hw13\\Hw13.csproj|solutionrelative:hw13\\configuration\\userbookconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Migrations\\20241121141805_addDateTime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hw13\\Migrations\\20241121141805_addDateTime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6F853A-09C5-4E87-99DF-EA1E92C5BBB3}|Hw13\\Hw13.csproj|c:\\users\\hmosl\\source\\repos\\hw13\\hw13\\contracts\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6F853A-09C5-4E87-99DF-EA1E92C5BBB3}|Hw13\\Hw13.csproj|solutionrelative:hw13\\contracts\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6F853A-09C5-4E87-99DF-EA1E92C5BBB3}|Hw13\\Hw13.csproj|c:\\users\\hmosl\\source\\repos\\hw13\\hw13\\contracts\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6F853A-09C5-4E87-99DF-EA1E92C5BBB3}|Hw13\\Hw13.csproj|solutionrelative:hw13\\contracts\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6F853A-09C5-4E87-99DF-EA1E92C5BBB3}|Hw13\\Hw13.csproj|c:\\users\\hmosl\\source\\repos\\hw13\\hw13\\configuration\\userconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6F853A-09C5-4E87-99DF-EA1E92C5BBB3}|Hw13\\Hw13.csproj|solutionrelative:hw13\\configuration\\userconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6F853A-09C5-4E87-99DF-EA1E92C5BBB3}|Hw13\\Hw13.csproj|c:\\users\\hmosl\\source\\repos\\hw13\\hw13\\configuration\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6F853A-09C5-4E87-99DF-EA1E92C5BBB3}|Hw13\\Hw13.csproj|solutionrelative:hw13\\configuration\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6F853A-09C5-4E87-99DF-EA1E92C5BBB3}|Hw13\\Hw13.csproj|c:\\users\\hmosl\\source\\repos\\hw13\\hw13\\configuration\\bookconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6F853A-09C5-4E87-99DF-EA1E92C5BBB3}|Hw13\\Hw13.csproj|solutionrelative:hw13\\configuration\\bookconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6F853A-09C5-4E87-99DF-EA1E92C5BBB3}|Hw13\\Hw13.csproj|c:\\users\\hmosl\\source\\repos\\hw13\\hw13\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6F853A-09C5-4E87-99DF-EA1E92C5BBB3}|Hw13\\Hw13.csproj|solutionrelative:hw13\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6F853A-09C5-4E87-99DF-EA1E92C5BBB3}|Hw13\\Hw13.csproj|c:\\users\\hmosl\\source\\repos\\hw13\\hw13\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6F853A-09C5-4E87-99DF-EA1E92C5BBB3}|Hw13\\Hw13.csproj|solutionrelative:hw13\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6F853A-09C5-4E87-99DF-EA1E92C5BBB3}|Hw13\\Hw13.csproj|c:\\users\\hmosl\\source\\repos\\hw13\\hw13\\security\\securityhelpe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6F853A-09C5-4E87-99DF-EA1E92C5BBB3}|Hw13\\Hw13.csproj|solutionrelative:hw13\\security\\securityhelpe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6F853A-09C5-4E87-99DF-EA1E92C5BBB3}|Hw13\\Hw13.csproj|c:\\users\\hmosl\\source\\repos\\hw13\\hw13\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6F853A-09C5-4E87-99DF-EA1E92C5BBB3}|Hw13\\Hw13.csproj|solutionrelative:hw13\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Migrations\\20241121121316_addDateTimee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hw13\\Migrations\\20241121121316_addDateTimee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Migrations\\20241121120103_addDateTime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hw13\\Migrations\\20241121120103_addDateTime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6F853A-09C5-4E87-99DF-EA1E92C5BBB3}|Hw13\\Hw13.csproj|c:\\users\\hmosl\\source\\repos\\hw13\\hw13\\enum\\statusbookenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6F853A-09C5-4E87-99DF-EA1E92C5BBB3}|Hw13\\Hw13.csproj|solutionrelative:hw13\\enum\\statusbookenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6F853A-09C5-4E87-99DF-EA1E92C5BBB3}|Hw13\\Hw13.csproj|c:\\users\\hmosl\\source\\repos\\hw13\\hw13\\enum\\roleuserenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6F853A-09C5-4E87-99DF-EA1E92C5BBB3}|Hw13\\Hw13.csproj|solutionrelative:hw13\\enum\\roleuserenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6F853A-09C5-4E87-99DF-EA1E92C5BBB3}|Hw13\\Hw13.csproj|c:\\users\\hmosl\\source\\repos\\hw13\\hw13\\contracts\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6F853A-09C5-4E87-99DF-EA1E92C5BBB3}|Hw13\\Hw13.csproj|solutionrelative:hw13\\contracts\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6F853A-09C5-4E87-99DF-EA1E92C5BBB3}|Hw13\\Hw13.csproj|c:\\users\\hmosl\\source\\repos\\hw13\\hw13\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6F853A-09C5-4E87-99DF-EA1E92C5BBB3}|Hw13\\Hw13.csproj|solutionrelative:hw13\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Migrations\\20241118201336_Hw13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hw13\\Migrations\\20241118201336_Hw13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6F853A-09C5-4E87-99DF-EA1E92C5BBB3}|Hw13\\Hw13.csproj|c:\\users\\hmosl\\source\\repos\\hw13\\hw13\\entities\\progressbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6F853A-09C5-4E87-99DF-EA1E92C5BBB3}|Hw13\\Hw13.csproj|solutionrelative:hw13\\entities\\progressbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6F853A-09C5-4E87-99DF-EA1E92C5BBB3}|Hw13\\Hw13.csproj|c:\\users\\hmosl\\source\\repos\\hw13\\hw13\\migrations\\20241121142111_adddatetimee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6F853A-09C5-4E87-99DF-EA1E92C5BBB3}|Hw13\\Hw13.csproj|solutionrelative:hw13\\migrations\\20241121142111_adddatetimee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 298,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibraryDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Configuration\\LibraryDbContext.cs",
+              "RelativeDocumentMoniker": "Hw13\\Configuration\\LibraryDbContext.cs",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Configuration\\LibraryDbContext.cs",
+              "RelativeToolTip": "Hw13\\Configuration\\LibraryDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T20:16:56.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserBookConfig.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Configuration\\UserBookConfig.cs",
+              "RelativeDocumentMoniker": "Hw13\\Configuration\\UserBookConfig.cs",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Configuration\\UserBookConfig.cs",
+              "RelativeToolTip": "Hw13\\Configuration\\UserBookConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:29:19.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserConfig.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Configuration\\UserConfig.cs",
+              "RelativeDocumentMoniker": "Hw13\\Configuration\\UserConfig.cs",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Configuration\\UserConfig.cs",
+              "RelativeToolTip": "Hw13\\Configuration\\UserConfig.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwB4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T13:28:05.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Contracts\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "Hw13\\Contracts\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Contracts\\IBookRepository.cs",
+              "RelativeToolTip": "Hw13\\Contracts\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T19:42:19.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Contracts\\IBookService.cs",
+              "RelativeDocumentMoniker": "Hw13\\Contracts\\IBookService.cs",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Contracts\\IBookService.cs",
+              "RelativeToolTip": "Hw13\\Contracts\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T19:42:46.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "Hw13\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "Hw13\\Repositories\\BookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T19:44:09.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "Hw13\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Services\\BookService.cs",
+              "RelativeToolTip": "Hw13\\Services\\BookService.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAuwGoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T19:44:38.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Program.cs",
+              "RelativeDocumentMoniker": "Hw13\\Program.cs",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Program.cs",
+              "RelativeToolTip": "Hw13\\Program.cs",
+              "ViewState": "AgIAAPcAAAAAAAAAAAAAACABAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T16:29:42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Configuration\\Configuration.cs",
+              "RelativeDocumentMoniker": "Hw13\\Configuration\\Configuration.cs",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Configuration\\Configuration.cs",
+              "RelativeToolTip": "Hw13\\Configuration\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T21:18:27.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookConfig.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Configuration\\BookConfig.cs",
+              "RelativeDocumentMoniker": "Hw13\\Configuration\\BookConfig.cs",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Configuration\\BookConfig.cs",
+              "RelativeToolTip": "Hw13\\Configuration\\BookConfig.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwC0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T13:27:56.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20241121142111_addDateTimee.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Migrations\\20241121142111_addDateTimee.cs",
+              "RelativeDocumentMoniker": "Hw13\\Migrations\\20241121142111_addDateTimee.cs",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Migrations\\20241121142111_addDateTimee.cs",
+              "RelativeToolTip": "Hw13\\Migrations\\20241121142111_addDateTimee.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:21:11.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241121141805_addDateTime.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Migrations\\20241121141805_addDateTime.cs",
+              "RelativeDocumentMoniker": "Hw13\\Migrations\\20241121141805_addDateTime.cs",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Migrations\\20241121141805_addDateTime.cs",
+              "RelativeToolTip": "Hw13\\Migrations\\20241121141805_addDateTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:18:05.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Contracts\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Hw13\\Contracts\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Contracts\\IUserRepository.cs",
+              "RelativeToolTip": "Hw13\\Contracts\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T19:42:32.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "Hw13\\Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Entities\\Book.cs",
+              "RelativeToolTip": "Hw13\\Entities\\Book.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T19:41:06.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Hw13\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Services\\UserService.cs",
+              "RelativeToolTip": "Hw13\\Services\\UserService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T19:44:52.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SecurityHelpe.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Security\\SecurityHelpe.cs",
+              "RelativeDocumentMoniker": "Hw13\\Security\\SecurityHelpe.cs",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Security\\SecurityHelpe.cs",
+              "RelativeToolTip": "Hw13\\Security\\SecurityHelpe.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAkwDUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T20:02:38.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Hw13\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Hw13\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T19:44:17.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StatusBookEnum.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Enum\\StatusBookEnum.cs",
+              "RelativeDocumentMoniker": "Hw13\\Enum\\StatusBookEnum.cs",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Enum\\StatusBookEnum.cs",
+              "RelativeToolTip": "Hw13\\Enum\\StatusBookEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T19:48:17.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241121121316_addDateTimee.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Migrations\\20241121121316_addDateTimee.cs",
+              "RelativeDocumentMoniker": "Hw13\\Migrations\\20241121121316_addDateTimee.cs",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Migrations\\20241121121316_addDateTimee.cs",
+              "RelativeToolTip": "Hw13\\Migrations\\20241121121316_addDateTimee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:13:16.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20241121120103_addDateTime.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Migrations\\20241121120103_addDateTime.cs",
+              "RelativeDocumentMoniker": "Hw13\\Migrations\\20241121120103_addDateTime.cs",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Migrations\\20241121120103_addDateTime.cs",
+              "RelativeToolTip": "Hw13\\Migrations\\20241121120103_addDateTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:01:03.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RoleUserEnum.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Enum\\RoleUserEnum.cs",
+              "RelativeDocumentMoniker": "Hw13\\Enum\\RoleUserEnum.cs",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Enum\\RoleUserEnum.cs",
+              "RelativeToolTip": "Hw13\\Enum\\RoleUserEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T19:47:41.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Contracts\\IUserService.cs",
+              "RelativeDocumentMoniker": "Hw13\\Contracts\\IUserService.cs",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Contracts\\IUserService.cs",
+              "RelativeToolTip": "Hw13\\Contracts\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T19:42:58.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20241118201336_Hw13.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Migrations\\20241118201336_Hw13.cs",
+              "RelativeDocumentMoniker": "Hw13\\Migrations\\20241118201336_Hw13.cs",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Migrations\\20241118201336_Hw13.cs",
+              "RelativeToolTip": "Hw13\\Migrations\\20241118201336_Hw13.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T20:13:36.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Hw13\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Entities\\User.cs",
+              "RelativeToolTip": "Hw13\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T19:40:38.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProgressBar.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Entities\\ProgressBar.cs",
+              "RelativeDocumentMoniker": "Hw13\\Entities\\ProgressBar.cs",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\Hw13\\Hw13\\Entities\\ProgressBar.cs",
+              "RelativeToolTip": "Hw13\\Entities\\ProgressBar.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T16:31:01.555Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 102,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
