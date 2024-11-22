@@ -35,7 +35,7 @@ namespace Hw13.Repositories
 
         public Book GetBookById(int id)
         {
-            return _context.Books.AsNoTracking().FirstOrDefault(x => x.Id == id);
+            return _context.Books.FirstOrDefault(x => x.Id == id);
         }
 
         public List<Book> GetUserBooks(int userId)

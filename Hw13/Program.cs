@@ -17,7 +17,7 @@ bool loggedIn = false;
 while (true)
 {
     Console.Clear();
-    ColoredConsole.WriteLine("*********Welcome ToDO List*********".DarkGreen());
+    ColoredConsole.WriteLine("*********Welcome Library*********".DarkGreen());
     ColoredConsole.WriteLine("1.Register".DarkBlue());
     ColoredConsole.WriteLine("2.Login".DarkBlue());
     ColoredConsole.WriteLine("3.Exit".DarkRed());
